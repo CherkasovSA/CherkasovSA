@@ -87,9 +87,13 @@ _**Описание:**_
 #### > Моделирование Бизнес-процесса | BPMN2.0 _ IDEF0
 
 [BPMN: Система бронирования в отеле](https://drive.google.com/file/d/17oWo5zm0qwB1Xn-pN7cBDcMSUiHLAQOP/view?usp=sharing) 
+
 [BPMN: Подача заявки на оплату](https://drive.google.com/file/d/1B5jY2IdwbOKsha1KetYiS7tenlvyibsE/view?usp=sharing)
+
 [Потоки данных: Моделирование бизнес-процесса](https://docs.google.com/spreadsheets/d/1gvMiX4Coj14dtlNQZqtwEUaInKNAU7xd3qhmyXC24XM/edit?usp=sharing)
+
 [IDEF0: Верхнеуровневое описание бизнес-модели](https://drive.google.com/file/d/1XHsZtr8Rl-l0Vpk2jNkEsbm5UiZe7Nbz/view?usp=sharing)
+
 
 #### > Прототипирование интерфейсов | FIGMA
 _**Описание:**_ Кликабельный прототип приложения  iOS
