@@ -3,6 +3,8 @@
 
 ![Telegram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bep_Lm_xqr2YghLstP--ZneJH1BhgYHIOg&usqp=CAU)
 
+Сайт с резюме и [информацией обо мне](http://portfoliocherkasovsa.tilda.ws/).
+
 ### Мой Стек
 <img  alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> СУБД | <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> MySQL |  <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> PostgreSQL
 
