@@ -96,8 +96,9 @@ _**Описание:**_
 1. Тестовое задание: написание ER-диаграмма по описанию БД
 [ER-диаграмма](https://drawsql.app/teams/test-1246/diagrams/order-product) | [Описание БД](https://docs.google.com/document/d/1C13L7kurzcR5Crl52xl8dZRPiF0ANdE462rmuqNE3lg/edit?usp=sharing)
 
-2. Запросы в СУБД 
-[Запросы]()
+2. Работа в СУБД
+[Простые запросы](https://drive.google.com/file/d/1hKGBJw5bGlFfBzldiG531B1Brp7M6X_M/view?usp=sharing) | [JOIN](https://drive.google.com/file/d/14B9BkIp8O-vVYEW_06Z1e5LQhY8DNp-7/view?usp=sharing) | [DML](https://drive.google.com/file/d/1JvuZF5IbOOSBp_L3nVghQSUbiNJfFI77/view?usp=sharing) | [Командная строка/Бэкап БД и транзакции](https://drive.google.com/file/d/1vUfVx4x1L73uH01rEDZmHrwqQFtq5PV5/view?usp=sharing) 
+
 
 #### Business canvas model 
 _**Описание:**_ Написание 
