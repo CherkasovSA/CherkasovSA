@@ -70,7 +70,6 @@ _**Описание:**_
 [Swagger: Проектирование API Кинотеатр](https://app.swaggerhub.com/apis/CherkasovSA/HomeworkSwagger2/2.0.0)
 
 #### > Работа с базами данных | PostgreSQL | MySQL
-_**Описание:**_ 
 
 1. Тестовое задание: написание ER-диаграмма по описанию БД
 [ER-диаграмма](https://drawsql.app/teams/test-1246/diagrams/order-product) | [Описание БД](https://docs.google.com/document/d/1C13L7kurzcR5Crl52xl8dZRPiF0ANdE462rmuqNE3lg/edit?usp=sharing)
