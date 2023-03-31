@@ -22,9 +22,9 @@
 
 <img alt="HTMLS" width="26px"    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rS3HJjx50hno14c6Z_i3yFOvgQ-vElDHMQ&usqp=CAU" /> Excel
 
-### Портфолио
+### ~ Портфолио ~
 
-#### Работа с требованиями
+#### > Работа с требованиями
 _**Описание:**_ 
 
 1. Составление вопросов к интервью в работе над проектом по развитию системы технической поддержки крупного интернет-провайдера;
@@ -41,7 +41,14 @@ _**Описание:**_
 [Итоговая работа](https://docs.google.com/document/d/1SszeM-nOqJ4eedBJ0u1fKD4ZjscUrMoaYiadHsVMUqk/edit?usp=sharing)
 
 
-#### Документирование в IT-проектах
+#### > UML диаграммы 
+_**Описание:**_ Составление UML-диаграмм
+
+[Диаграмма активности](https://docs.google.com/drawings/d/1bhHlPrVMCRPBDd_DxNiikIteU49C88PVkPi25v4t2Hg/edit?usp=sharing) 
+[Диаграмма вариантов использования](https://docs.google.com/drawings/d/1ivATVzd8zt38ft1T8ZxN4gsGhefL2M-L-_AgG94fhA4/edit?usp=sharing) 
+
+
+#### > Документирование в IT-проектах
 _**Описание:**_ Написание ТЗ, CJM, план-графика и бэклога в проектах
 
 Документирование при разработке WEB-приложения для выбора клиники и записи к варчу:
@@ -57,7 +64,7 @@ _**Описание:**_ Написание ТЗ, CJM, план-графика и
 [CJM: приложение "Погода"](https://docs.google.com/spreadsheets/d/1qxJLaxVdrfPKLa4iDDL_0MqhrCYwZlCO-Xm2WrewR8M/edit?usp=sharing) 
 
 
-#### Интеграция систем и документирование API | {Swagger}
+#### > Интеграция систем и документирование API | {Swagger}
 _**Описание:**_ 
 1. Разработка многофункционального API для Кинотеатра и запуска системы лояльности
 2. Проектирование API для взаимодействия со складом, каталогом и системой продаж на шоколадной фабрике
@@ -68,31 +75,7 @@ _**Описание:**_
 [Swagger: Проектирование API шоколадная фабрика](https://app.swaggerhub.com/apis/CherkasovSA/SF-1/1.0.0) | 
 [Swagger: Проектирование API Кинотеатр](https://app.swaggerhub.com/apis/CherkasovSA/HomeworkSwagger2/2.0.0)
 
-
-#### Прототипирование интерфейса | FIGMA
-_**Описание:**_ Кликабельный прототип приложения  iOS
-
-[Кликабельный прототип](https://www.figma.com/proto/h0A5nts6gs4x836Q8xRdhq/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%BE%D0%B2?node-id=93-196&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
-
-
-#### UML диаграммы 
-_**Описание:**_ Составление UML-диаграмм
-
-[Диаграмма активности](https://docs.google.com/drawings/d/1bhHlPrVMCRPBDd_DxNiikIteU49C88PVkPi25v4t2Hg/edit?usp=sharing) 
-[Диаграмма вариантов использования](https://docs.google.com/drawings/d/1ivATVzd8zt38ft1T8ZxN4gsGhefL2M-L-_AgG94fhA4/edit?usp=sharing) 
-
-
-#### Моделирование Бизнес-процесса | BPMN2.0 _ IDEF0
-
-[BPMN: Система бронирования в отеле](https://drive.google.com/file/d/17oWo5zm0qwB1Xn-pN7cBDcMSUiHLAQOP/view?usp=sharing) 
-
-[BPMN: Подача заявки на оплату](https://drive.google.com/file/d/1B5jY2IdwbOKsha1KetYiS7tenlvyibsE/view?usp=sharing)
-
-[Потоки данных: Моделирование бизнес-процесса](https://docs.google.com/spreadsheets/d/1gvMiX4Coj14dtlNQZqtwEUaInKNAU7xd3qhmyXC24XM/edit?usp=sharing)
-
-[IDEF0: Верхнеуровневое описание бизнес-модели](https://drive.google.com/file/d/1XHsZtr8Rl-l0Vpk2jNkEsbm5UiZe7Nbz/view?usp=sharing)
-
-#### Работа с базами данных | PostgreSQL | MySQL
+#### > Работа с базами данных | PostgreSQL | MySQL
 _**Описание:**_ 
 
 1. Тестовое задание: написание ER-диаграмма по описанию БД
@@ -102,7 +85,23 @@ _**Описание:**_
 [Простые запросы](https://drive.google.com/file/d/1hKGBJw5bGlFfBzldiG531B1Brp7M6X_M/view?usp=sharing) | [JOIN](https://drive.google.com/file/d/14B9BkIp8O-vVYEW_06Z1e5LQhY8DNp-7/view?usp=sharing) | [DML](https://drive.google.com/file/d/1JvuZF5IbOOSBp_L3nVghQSUbiNJfFI77/view?usp=sharing) | [Командная строка/Бэкап БД и транзакции](https://drive.google.com/file/d/1vUfVx4x1L73uH01rEDZmHrwqQFtq5PV5/view?usp=sharing) 
 
 
-#### Business canvas model 
+#### > Моделирование Бизнес-процесса | BPMN2.0 _ IDEF0
+
+[BPMN: Система бронирования в отеле](https://drive.google.com/file/d/17oWo5zm0qwB1Xn-pN7cBDcMSUiHLAQOP/view?usp=sharing) 
+
+[BPMN: Подача заявки на оплату](https://drive.google.com/file/d/1B5jY2IdwbOKsha1KetYiS7tenlvyibsE/view?usp=sharing)
+
+[Потоки данных: Моделирование бизнес-процесса](https://docs.google.com/spreadsheets/d/1gvMiX4Coj14dtlNQZqtwEUaInKNAU7xd3qhmyXC24XM/edit?usp=sharing)
+
+[IDEF0: Верхнеуровневое описание бизнес-модели](https://drive.google.com/file/d/1XHsZtr8Rl-l0Vpk2jNkEsbm5UiZe7Nbz/view?usp=sharing)
+
+#### > Прототипирование интерфейсов | FIGMA
+_**Описание:**_ Кликабельный прототип приложения  iOS
+
+[Кликабельный прототип](https://www.figma.com/proto/h0A5nts6gs4x836Q8xRdhq/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%BE%D0%B2?node-id=93-196&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
+
+
+#### > Business canvas model 
 _**Описание:**_ Написание 
 
 [BCM: Трэвел блогер](https://docs.google.com/presentation/d/1Q00EzCQEFDbS5TS23AfZFycy9TbDSEd6r1ujTqt4kBE/edit?usp=sharing)
