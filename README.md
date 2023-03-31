@@ -1,7 +1,7 @@
 ### Привет! 
 #### Я Черкасов Сергей, системный аналитик
 
-![Telegram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC62HWRmVi13IkHcp2KNREVJHL-6PjQOHl6A&usqp=CAU)
+![Telegram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bep_Lm_xqr2YghLstP--ZneJH1BhgYHIOg&usqp=CAU)
 
 ### Мой Стек
 <img  alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> СУБД | <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> MySQL |  <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> PostgreSQL
