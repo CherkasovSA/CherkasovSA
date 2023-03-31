@@ -3,7 +3,7 @@
 
 ![Picture](https://sun9-39.userapi.com/impg/T8iyUNE6fqhkTvy0IlfP1FU5Gqydj5etgqI6Ig/uUS-TIpmFXY.jpg?size=537x240&quality=96&sign=c1778e4aacdbfb23307b43ec101168a9&type=share)
 
-Сайт с резюме и [информацией обо мне](http://portfoliocherkasovsa.tilda.ws/).
+Сайт с резюме и [информацией обо мне](http://systemanalyticcherkasov.tilda.ws/).
 
 <img  alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVgTZs20lA-ITZriSqeaFKpR-dlMCNQPJzg&usqp=CAU" /> [Telegram](https://t.me/kakhotelamama)
 
