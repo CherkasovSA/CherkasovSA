@@ -11,22 +11,8 @@ ______
 
 ### Мой Стек
 
-<img  alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> СУБД |  <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> PostgreSQL | <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> MySQL
-
-<img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHYcZtXQWs9fcT_tN_VTs7IcfqIPNiYq50Q&usqp=CAU" /> UML | <img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSf6qshkYG-Wo1G7Ies-lRoiLoZNt5-VVijA&usqp=CAU" /> BPMN2.0
-
-<img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" /> GitHub | <img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKiHJdfgAMrub55WPynpHBLCv7Ki68GDw4ow&usqp=CAU" /> Git 
-
-<img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&usqp=CAU" /> Swagger (Rest API, SOAP)
-
-<img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZTddfG1QM6noRnlbNDacwk8J4dIQQx-10g&usqp=CAU" /> Figma
-
-<img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python
-
-<img alt="HTMLS" width="26px"    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> Markdown
-
-<img alt="HTMLS" width="26px"    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rS3HJjx50hno14c6Z_i3yFOvgQ-vElDHMQ&usqp=CAU" /> Excel
-
+<img  alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> СУБД   <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> PostgreSQL <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> MySQL <img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHYcZtXQWs9fcT_tN_VTs7IcfqIPNiYq50Q&usqp=CAU" /> UML  <img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSf6qshkYG-Wo1G7Ies-lRoiLoZNt5-VVijA&usqp=CAU" /> BPMN2.0 <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" /> GitHub  <img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKiHJdfgAMrub55WPynpHBLCv7Ki68GDw4ow&usqp=CAU" /> Git 
+<img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&usqp=CAU" /> Swagger (Rest API, SOAP) <img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQZTddfG1QM6noRnlbNDacwk8J4dIQQx-10g&usqp=CAU" /> Figma <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python <img alt="HTMLS" width="26px"    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> Markdown <img alt="HTMLS" width="26px"    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rS3HJjx50hno14c6Z_i3yFOvgQ-vElDHMQ&usqp=CAU" /> Excel
 ______
 
 ###  Портфолио 
@@ -93,7 +79,6 @@ _**Описание:**_
 [Потоки данных: Моделирование бизнес-процесса](https://docs.google.com/spreadsheets/d/1gvMiX4Coj14dtlNQZqtwEUaInKNAU7xd3qhmyXC24XM/edit?usp=sharing)
 
 [IDEF0: Верхнеуровневое описание бизнес-модели](https://drive.google.com/file/d/1XHsZtr8Rl-l0Vpk2jNkEsbm5UiZe7Nbz/view?usp=sharing)
-
 
 #### > Прототипирование интерфейсов | FIGMA
 _**Описание:**_ Кликабельный прототип приложения  iOS
