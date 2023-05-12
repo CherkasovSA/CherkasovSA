@@ -1,5 +1,5 @@
 ### Привет! 
-#### Я Черкасов Сергей, системный аналитик
+#### Я Черкасов Сергей, системный аналитик DWH
 
 ![Picture](https://sun9-39.userapi.com/impg/T8iyUNE6fqhkTvy0IlfP1FU5Gqydj5etgqI6Ig/uUS-TIpmFXY.jpg?size=537x240&quality=96&sign=c1778e4aacdbfb23307b43ec101168a9&type=share)
 
