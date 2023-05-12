@@ -78,6 +78,20 @@ _**Описание:**_
 [Простые запросы](https://drive.google.com/file/d/1hKGBJw5bGlFfBzldiG531B1Brp7M6X_M/view?usp=sharing) | [JOIN](https://drive.google.com/file/d/14B9BkIp8O-vVYEW_06Z1e5LQhY8DNp-7/view?usp=sharing) | [DML](https://drive.google.com/file/d/1JvuZF5IbOOSBp_L3nVghQSUbiNJfFI77/view?usp=sharing) | [Командная строка/Бэкап БД и транзакции](https://drive.google.com/file/d/1vUfVx4x1L73uH01rEDZmHrwqQFtq5PV5/view?usp=sharing) 
 
 
+#### > Проектирование DWH
+
+_**Описание:**_ 
+1. Построение логической модели данных Core Data Layer в нотации 3 NF
+2. Построение логической модели данных Data Mart Layer (в нотации «Снежинка», 3NF)
+3. Формирование технической спецификации: Primary Data Layer, Core Data Layer, Data Mart Laye по учебному проекту
+
+
+[Логическая модель данных Core Mart Layer в 3NF](https://drawsql.app/teams/test-1246/diagrams/logicheskaya-model-dannyh-core-mart-layer) 
+
+[Логическая модель данных Data Mart Layer](https://drive.google.com/file/d/1A5tJzXc-c6WmDQZbdcr5742TotAbKqm_/view?usp=sharing) 
+
+[Техническая спецификация проекта DWH: Primary Data Layer, Core Data Layer, Data Mart Layer](https://docs.google.com/spreadsheets/d/1e-K0IcUjgiwqK7dbh1OO50TYqA1f-nwUGV2YAtiX1sE/edit?usp=sharing) 
+
 #### > Моделирование Бизнес-процесса | BPMN2.0 _ IDEF0
 
 [BPMN: Система бронирования в отеле](https://drive.google.com/file/d/17oWo5zm0qwB1Xn-pN7cBDcMSUiHLAQOP/view?usp=sharing) 
