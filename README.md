@@ -1,5 +1,5 @@
 ### Привет! 
-#### Я Черкасов Сергей, системный аналитик DWH
+#### Я Черкасов Сергей, системный аналитик
 
 ![Picture](https://sun9-39.userapi.com/impg/T8iyUNE6fqhkTvy0IlfP1FU5Gqydj5etgqI6Ig/uUS-TIpmFXY.jpg?size=537x240&quality=96&sign=c1778e4aacdbfb23307b43ec101168a9&type=share)
 
@@ -84,13 +84,15 @@ _**Описание:**_
 1. Построение логической модели данных Core Data Layer в нотации 3 NF
 2. Построение логической модели данных Data Mart Layer (в нотации «Снежинка», 3NF)
 3. Формирование технической спецификации: Primary Data Layer, Core Data Layer, Data Mart Laye по учебному проекту
-
+4. Описание 5-ти бизнес-правил и метрик на базе ключевых критериев качества данных, с установленным целевым уровнем
 
 [Логическая модель данных Core Mart Layer в 3NF](https://drawsql.app/teams/test-1246/diagrams/logicheskaya-model-dannyh-core-mart-layer) 
 
 [Логическая модель данных Data Mart Layer](https://drive.google.com/file/d/1A5tJzXc-c6WmDQZbdcr5742TotAbKqm_/view?usp=sharing) 
 
 [Техническая спецификация проекта DWH: Primary Data Layer, Core Data Layer, Data Mart Layer](https://docs.google.com/spreadsheets/d/1e-K0IcUjgiwqK7dbh1OO50TYqA1f-nwUGV2YAtiX1sE/edit?usp=sharing) 
+
+[Data Governance и Data quality: 5 БП, метрики и целевой уровень](https://docs.google.com/spreadsheets/d/1e-K0IcUjgiwqK7dbh1OO50TYqA1f-nwUGV2YAtiX1sE/edit?usp=sharing) 
 
 #### > Моделирование Бизнес-процесса | BPMN2.0 _ IDEF0
 
