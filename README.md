@@ -1,4 +1,4 @@
-### Привет! 
+## Привет! 
 #### Я Черкасов Сергей, системный аналитик
 
 ![Picture](https://sun9-39.userapi.com/impg/T8iyUNE6fqhkTvy0IlfP1FU5Gqydj5etgqI6Ig/uUS-TIpmFXY.jpg?size=537x240&quality=96&sign=c1778e4aacdbfb23307b43ec101168a9&type=share)
@@ -9,7 +9,7 @@
 
 ______
 
-### Мой Стек
+## Мой Стек
 
 <img  alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> СУБД <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> PostgreSQL  <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> MySQL  
 
@@ -24,9 +24,9 @@ ______
 <img alt="HTMLS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python 
 ______
 
-###  Портфолио 
+## Портфолио 
 
-#### > Работа с требованиями
+### > Работа с требованиями
 _**Описание:**_ 
 
 1. Составление вопросов к интервью в работе над проектом по развитию системы технической поддержки крупного интернет-провайдера;
@@ -37,13 +37,13 @@ _**Описание:**_
 [Интервью](https://docs.google.com/spreadsheets/d/1_TYlFpugdN0U7js0gsXqx0O7VmdXzQfE9acAUTZQg_k/edit?usp=sharing) | [User/Job Stories](https://docs.google.com/document/d/1ZVqviPlYvP3dDOIsHPfSz9nAcYnJbhsoneMbL7tmUOU/edit?usp=sharing) | [Варианты использования](https://docs.google.com/document/d/1LEUr-rSeLmQ8KMcbH1ojTmaMpL0EE4F-Egz6tDOJonQ/edit?usp=sharing) | [Итоговая работа](https://docs.google.com/document/d/1SszeM-nOqJ4eedBJ0u1fKD4ZjscUrMoaYiadHsVMUqk/edit?usp=sharing)
 
 
-#### > UML диаграммы 
+### > UML диаграммы 
 _**Описание:**_ Составление UML-диаграмм
 
 [Диаграмма активности](https://docs.google.com/drawings/d/1bhHlPrVMCRPBDd_DxNiikIteU49C88PVkPi25v4t2Hg/edit?usp=sharing) | [Диаграмма вариантов использования](https://docs.google.com/drawings/d/1ivATVzd8zt38ft1T8ZxN4gsGhefL2M-L-_AgG94fhA4/edit?usp=sharing) 
 
 
-#### > Документирование в IT-проектах
+### > Документирование в IT-проектах
 _**Описание:**_ Написание ТЗ, CJM, план-графика и бэклога в проектах
 
 Документирование при разработке WEB-приложения для выбора клиники и записи к варчу:
@@ -58,7 +58,7 @@ _**Описание:**_ Написание ТЗ, CJM, план-графика и
 [CJM: приложение "Погода"](https://docs.google.com/spreadsheets/d/1qxJLaxVdrfPKLa4iDDL_0MqhrCYwZlCO-Xm2WrewR8M/edit?usp=sharing) 
 
 
-#### > Интеграция систем и документирование API | {Swagger}
+### > Интеграция систем и документирование API | {Swagger}
 _**Описание:**_ 
 1. Разработка многофункционального API для Кинотеатра и запуска системы лояльности
 2. Проектирование API для взаимодействия со складом, каталогом и системой продаж на шоколадной фабрике
@@ -69,7 +69,7 @@ _**Описание:**_
 [Swagger: Проектирование API шоколадная фабрика](https://app.swaggerhub.com/apis/CherkasovSA/SF-1/1.0.0) | 
 [Swagger: Проектирование API Кинотеатр](https://app.swaggerhub.com/apis/CherkasovSA/HomeworkSwagger2/2.0.0)
 
-#### > Работа с базами данных | PostgreSQL | MySQL
+### > Работа с базами данных | PostgreSQL | MySQL
 
 1. Тестовое задание: написание ER-диаграмма по описанию БД
 [ER-диаграмма](https://drawsql.app/teams/test-1246/diagrams/order-product) | [Описание БД](https://docs.google.com/document/d/1C13L7kurzcR5Crl52xl8dZRPiF0ANdE462rmuqNE3lg/edit?usp=sharing)
@@ -78,7 +78,7 @@ _**Описание:**_
 [Простые запросы](https://drive.google.com/file/d/1hKGBJw5bGlFfBzldiG531B1Brp7M6X_M/view?usp=sharing) | [JOIN](https://drive.google.com/file/d/14B9BkIp8O-vVYEW_06Z1e5LQhY8DNp-7/view?usp=sharing) | [DML](https://drive.google.com/file/d/1JvuZF5IbOOSBp_L3nVghQSUbiNJfFI77/view?usp=sharing) | [Командная строка/Бэкап БД и транзакции](https://drive.google.com/file/d/1vUfVx4x1L73uH01rEDZmHrwqQFtq5PV5/view?usp=sharing) 
 
 
-#### > Проектирование DWH
+### > Проектирование DWH
 
 _**Описание:**_ 
 1. Построение логической модели данных Core Data Layer в нотации 3 NF
@@ -94,7 +94,7 @@ _**Описание:**_
 
 [Data Governance и Data quality: 5 БП, метрики и целевой уровень](https://docs.google.com/spreadsheets/d/1e-K0IcUjgiwqK7dbh1OO50TYqA1f-nwUGV2YAtiX1sE/edit?usp=sharing) 
 
-#### > Моделирование Бизнес-процесса | BPMN2.0 _ IDEF0
+### > Моделирование Бизнес-процесса | BPMN2.0 _ IDEF0
 
 [BPMN: Система бронирования в отеле](https://drive.google.com/file/d/17oWo5zm0qwB1Xn-pN7cBDcMSUiHLAQOP/view?usp=sharing) 
 
@@ -104,13 +104,13 @@ _**Описание:**_
 
 [IDEF0: Верхнеуровневое описание бизнес-модели](https://drive.google.com/file/d/1XHsZtr8Rl-l0Vpk2jNkEsbm5UiZe7Nbz/view?usp=sharing)
 
-#### > Прототипирование интерфейсов | FIGMA
+### > Прототипирование интерфейсов | FIGMA
 _**Описание:**_ Кликабельный прототип приложения  iOS
 
 [Кликабельный прототип](https://www.figma.com/proto/h0A5nts6gs4x836Q8xRdhq/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%BE%D0%B2?node-id=93-196&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 
-#### > Business canvas model 
+### > Business canvas model 
 
 
 [BCM: Трэвел блогер](https://docs.google.com/presentation/d/1Q00EzCQEFDbS5TS23AfZFycy9TbDSEd6r1ujTqt4kBE/edit?usp=sharing)
