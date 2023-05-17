@@ -82,7 +82,7 @@ _**Описание:**_
 
 _**Описание:**_ 
 1. Построение логической модели данных Core Data Layer в нотации 3 NF
-2. Построение логической модели данных Data Mart Layer
+2. Построение логической модели данных Data Mart Layer (в нотации «Снежинка», 3NF)
 3. Формирование технической спецификации: Primary Data Layer, Core Data Layer, Data Mart Laye по учебному проекту
 4. Описание 5-ти бизнес-правил и метрик на базе ключевых критериев качества данных, с установленным целевым уровнем
 
@@ -92,7 +92,7 @@ _**Описание:**_
 
 [Техническая спецификация проекта DWH: Primary Data Layer, Core Data Layer, Data Mart Layer](https://docs.google.com/spreadsheets/d/1e-K0IcUjgiwqK7dbh1OO50TYqA1f-nwUGV2YAtiX1sE/edit?usp=sharing) 
 
-[Data Governance и Data quality: 5 БП, метрики и целевой уровень](https://docs.google.com/spreadsheets/d/1e-K0IcUjgiwqK7dbh1OO50TYqA1f-nwUGV2YAtiX1sE/edit?usp=sharing) 
+[Data Governance и Data quality: 5 БП, метрики и целевой уровень](https://docs.google.com/spreadsheets/d/1U5NLbF6r9LsMKhT-_Qya-E6Sa92_xnngkqmy5nd72II/edit?usp=sharing) 
 
 ### > Моделирование Бизнес-процесса | BPMN2.0 _ IDEF0
 
