@@ -94,6 +94,17 @@ _**Описание:**_
 
 [Data Governance и Data quality: 5 БП, метрики и целевой уровень](https://docs.google.com/spreadsheets/d/1U5NLbF6r9LsMKhT-_Qya-E6Sa92_xnngkqmy5nd72II/edit?usp=sharing) 
 
+
+##### Курсовая работа по модулю "Проектирование DWH"
+
+Задание
+[Условия задачи](https://docs.google.com/spreadsheets/d/1Lm92lrPhR0PFDndYyqI55vLpNwgKJQAYvFskg7b7hlQ/edit?usp=sharing)
+
+
+Выполнение
+[Технические спецификации и ETL-схема](https://docs.google.com/spreadsheets/d/1Lm92lrPhR0PFDndYyqI55vLpNwgKJQAYvFskg7b7hlQ/edit?usp=sharing) |
+[Core Mart Layer](https://drawsql.app/teams/test-1246/diagrams/logicheskaya-model-dannyh-core-mart-layer-itogovaya-rabota) | [Data Mart Layer](https://drive.google.com/file/d/1ITIdMfWjek88nssoRE0LCpNvcF73St0k/view?usp=sharing) | [Data Quality](https://docs.google.com/spreadsheets/d/1Jbg53PdKUrmhXwZshoRemZ-Azvz3q5iRB_VlAQvykt4/edit?usp=sharing)
+
 ### > Моделирование Бизнес-процесса | BPMN2.0 _ IDEF0
 
 [BPMN: Система бронирования в отеле](https://drive.google.com/file/d/17oWo5zm0qwB1Xn-pN7cBDcMSUiHLAQOP/view?usp=sharing) 
