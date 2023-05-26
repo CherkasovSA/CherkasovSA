@@ -48,13 +48,13 @@ _**Описание:**_ Написание ТЗ, CJM, план-графика и
 
 Документирование при разработке WEB-приложения для выбора клиники и записи к варчу:
 
-[ТЗ по ГОСТу 19.201-78: приложение "Запись к врачу" ](https://docs.google.com/document/d/1C3pm7yyZnEZ7Po0tEEXKYtrHDeK2XCyZM3qzP_gfr8U/edit?usp=sharing) 
+[ТЗ по ГОСТу 19.201-78: приложение "Запись к врачу" ](https://docs.google.com/document/d/1C3pm7yyZnEZ7Po0tEEXKYtrHDeK2XCyZM3qzP_gfr8U/edit?usp=sharing) | 
 [CJM + План-график: приложение "Запись к врачу" ](https://docs.google.com/spreadsheets/d/1ydUpeb1RBH3h2iBp2Y68GzUEpwpuVUwr58FO_GA3SgU/edit?usp=sharing) 
 
 Документирование на проекте по разработке приложения "Погода":
 
-[Краткое ТЗ: приложение "Погода"](https://docs.google.com/document/d/1KvjPiWZ_ck37aIvT8PpD7dSMMx_KgK1Ymr8LaDzZEGM/edit?usp=sharing) 
-[План-график + Бэклог: приложение "Погода"](https://docs.google.com/spreadsheets/d/1_lGMIZpmzCwMPi3Q8W--InUd70N-qNifIWDp5UopSyE/edit?usp=sharing) 
+[Краткое ТЗ: приложение "Погода"](https://docs.google.com/document/d/1KvjPiWZ_ck37aIvT8PpD7dSMMx_KgK1Ymr8LaDzZEGM/edit?usp=sharing) | 
+[План-график + Бэклог: приложение "Погода"](https://docs.google.com/spreadsheets/d/1_lGMIZpmzCwMPi3Q8W--InUd70N-qNifIWDp5UopSyE/edit?usp=sharing) | 
 [CJM: приложение "Погода"](https://docs.google.com/spreadsheets/d/1qxJLaxVdrfPKLa4iDDL_0MqhrCYwZlCO-Xm2WrewR8M/edit?usp=sharing) 
 
 
