@@ -77,6 +77,10 @@ _**Описание:**_
 2. Работа в СУБД
 [Простые запросы](https://drive.google.com/file/d/1hKGBJw5bGlFfBzldiG531B1Brp7M6X_M/view?usp=sharing) | [JOIN](https://drive.google.com/file/d/14B9BkIp8O-vVYEW_06Z1e5LQhY8DNp-7/view?usp=sharing) | [DML](https://drive.google.com/file/d/1JvuZF5IbOOSBp_L3nVghQSUbiNJfFI77/view?usp=sharing) | [Командная строка/Бэкап БД и транзакции](https://drive.google.com/file/d/1vUfVx4x1L73uH01rEDZmHrwqQFtq5PV5/view?usp=sharing) 
 
+### > Python
+_**Описание:**_ 
+
+ [Решение](https://colab.research.google.com/drive/1vSQzMGggO3CvgzplxnKHrPNNDJ4a5d_j?usp=sharing) учебных задач на курсе
 
 ### > Проектирование DWH
 
