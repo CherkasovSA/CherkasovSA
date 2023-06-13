@@ -81,7 +81,9 @@ _**Описание:**_
 _**Описание:**_ 
 
  [Решение](https://colab.research.google.com/drive/1vSQzMGggO3CvgzplxnKHrPNNDJ4a5d_j?usp=sharing) учебных задач на курсе
-
+ 
+ [Тестовые задачи](https://colab.research.google.com/drive/1sl4HuSB66EgLMoprjE0TtMmGkzuGDIRt?usp=sharing)
+ 
 ### > Проектирование DWH
 
 _**Описание:**_ 
