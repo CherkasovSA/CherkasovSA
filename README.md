@@ -87,6 +87,7 @@ _**Описание:**_
 ### > Библиотеки Python для анализа данных
 
 [Основы веб-скрапинга](https://colab.research.google.com/drive/1tTUzyS6ttjWeIGRuNA9Z6Ynqo61CJ4jr?usp=sharing)
+
 [Библиотека numpy / Вычислительные задачи](https://colab.research.google.com/drive/13EWmeap9o27GOJY3mOnCKAgw7ePMLApc?usp=sharing)
 
 ### > Проектирование DWH
