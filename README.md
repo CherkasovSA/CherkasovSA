@@ -80,10 +80,15 @@ _**Описание:**_
 ### > Python
 _**Описание:**_ 
 
- [Решение](https://colab.research.google.com/drive/1vSQzMGggO3CvgzplxnKHrPNNDJ4a5d_j?usp=sharing) учебных задач на курсе
+[Решение](https://colab.research.google.com/drive/1vSQzMGggO3CvgzplxnKHrPNNDJ4a5d_j?usp=sharing) учебных задач на курсе
  
- [Тестовые задачи](https://colab.research.google.com/drive/1sl4HuSB66EgLMoprjE0TtMmGkzuGDIRt?usp=sharing)
- 
+[Тестовые задачи](https://colab.research.google.com/drive/1sl4HuSB66EgLMoprjE0TtMmGkzuGDIRt?usp=sharing)
+
+### > Библиотеки Python для анализа данных
+
+[Основы веб-скрапинга](https://colab.research.google.com/drive/1tTUzyS6ttjWeIGRuNA9Z6Ynqo61CJ4jr?usp=sharing)
+[Библиотека numpy / Вычислительные задачи](https://colab.research.google.com/drive/13EWmeap9o27GOJY3mOnCKAgw7ePMLApc?usp=sharing)
+
 ### > Проектирование DWH
 
 _**Описание:**_ 
