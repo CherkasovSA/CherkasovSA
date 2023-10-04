@@ -101,9 +101,9 @@ _**Описание:**_ Кликабельный прототип приложе
 [Кликабельный прототип](https://www.figma.com/proto/h0A5nts6gs4x836Q8xRdhq/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%BE%D0%B2?node-id=93-196&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 _**Описание:**_ Прототип мобильного приложения оператора связи
+
 [Дипломная работа](https://www.figma.com/file/5VhhFXLXqbcMHwKtfkqUrB/Untitled?type=design&node-id=0%3A1&mode=design&t=GcuAt8aWvXH7Kru4-1)
 
 #### > Business canvas model 
-
 
 [BCM: Трэвел блогер](https://docs.google.com/presentation/d/1Q00EzCQEFDbS5TS23AfZFycy9TbDSEd6r1ujTqt4kBE/edit?usp=sharing)
