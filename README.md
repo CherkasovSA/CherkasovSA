@@ -6,7 +6,9 @@
 [Сайт-портфолио](https://portfolio-cherkasov-sa.tilda.ws/)
 ______
 
-Связаться со мной: [Telegram](https://t.me/kakhotelamama)
+Связаться со мной: 
+[Telegram](https://t.me/kakhotelamama)
+[linkedin](www.linkedin.com/in/sergey-cherkasov-476162258)
 ______
 
 ### Мой Стек
