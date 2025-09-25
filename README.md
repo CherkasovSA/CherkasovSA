@@ -7,8 +7,8 @@
 ______
 
 Связаться со мной: 
-[Telegram](https://t.me/kakhotelamama)
-[linkedin](www.linkedin.com/in/sergey-cherkasov-476162258)
+[Telegram](https://t.me/kakhotelamama), 
+[Linkedin](www.linkedin.com/in/sergey-cherkasov-476162258)
 ______
 
 ### Мой Стек
