@@ -26,12 +26,10 @@ src="https://th.bing.com/th/id/R.7afd213071e52a3a50d7d9c9db74d29b?rik=g3fAZfGv1D
 
 <img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHYcZtXQWs9fcT_tN_VTs7IcfqIPNiYq50Q&usqp=CAU" /> UML  <img alt="HTMLS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSf6qshkYG-Wo1G7Ies-lRoiLoZNt5-VVijA&usqp=CAU" /> BPMN2.0 
 
-<img alt="HTMLS" width="26px"    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> Markdown   
-
 <img alt="HTMLS" width="26px"
 src="https://trainingcursos.files.wordpress.com/2010/10/itil_v3.png" /> ITIL
 
 <img alt="HTMLS" width="26px"
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuER1tOoBap4qZ8V7OUsbf-quqFfEjj3Jnzg&s" /> VS Code / CLINE 
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuER1tOoBap4qZ8V7OUsbf-quqFfEjj3Jnzg&s" /> VS Code / Cline
 ______
 
