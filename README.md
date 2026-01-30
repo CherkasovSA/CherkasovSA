@@ -1,7 +1,7 @@
 ### Привет! 
 #### Я Черкасов Сергей, продуктовый аналитик
 
-![Picture](https://sun9-39.userapi.com/impg/T8iyUNE6fqhkTvy0IlfP1FU5Gqydj5etgqI6Ig/uUS-TIpmFXY.jpg?size=537x240&quality=96&sign=c1778e4aacdbfb23307b43ec101168a9&type=share)
+![Picture](file:///C:/Users/Sergo/Desktop/photo_2026-01-15_07-50-38.jpg)
 
 [Сайт-портфолио](https://portfolio-cherkasov-sa.tilda.ws/)
 ______
