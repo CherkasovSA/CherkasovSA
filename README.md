@@ -1,7 +1,7 @@
 ### Привет! 
 #### Я Черкасов Сергей, продуктовый аналитик
 
-[Сайт-портфолио](https://portfolio-cherkasov-sa.tilda.ws/)
+[Визитка](https://cherkasovsa.github.io/resume/)
 ______
 
 Связаться со мной: 
