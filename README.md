@@ -4,6 +4,6 @@
 ______
 
 Связаться со мной: 
-[Telegram](https://t.me/kakhotelamama), 
+[Telegram](https://t.me/SerhioCherkasov), 
 [Linkedin](www.linkedin.com/in/sergey-cherkasov-476162258)
 
